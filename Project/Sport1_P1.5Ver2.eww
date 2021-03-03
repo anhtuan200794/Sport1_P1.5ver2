@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\..\Sport1_P1.5\Project\Sport1_New_UART_lib.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Sport1_P1.5Ver2.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
